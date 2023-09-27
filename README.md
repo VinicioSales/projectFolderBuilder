@@ -1,2 +1,2 @@
 # projectFolderBuilder
-The ProjectDirectoryBuilder is an intuitive and practical graphical application that aims to simplify project organization. With this tool, you can automatically generate a predefined directory structure, streamlining the creation process and making file organization easier.
+The ProjectDirectoryBuilder is an intuitive and practical application that aims to simplify project organization. With this tool, you can automatically generate a predefined directory structure, streamlining the creation process and making file organization easier.
